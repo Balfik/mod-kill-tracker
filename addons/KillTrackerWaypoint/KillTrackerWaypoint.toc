@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Kill Tracker Waypoint
+## Notes: Automatically sets a TomTom pin from the /way commands printed by the "Hunt Chronicler" NPC - no manual entry needed.
+## Author: Kill Tracker
+## Version: 1.2
+## OptionalDeps: TomTom
+
+KillTrackerWaypoint.lua

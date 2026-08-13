@@ -1,0 +1,11 @@
+[worldserver]
+
+########################################
+# Kill Tracker module
+########################################
+#
+#    KillTracker.Enable
+#        Description: Enable/disable the module (NPC + kill-reward buffs).
+#        Default: 1 (enabled)
+
+KillTracker.Enable = 1

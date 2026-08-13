@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Kill Tracker HUD
+## Notes: Shows "Hunt Chronicler" (kill tracker) stats directly in the UI - no need to open the NPC menu.
+## Author: Kill Tracker
+## Version: 16.0
+## SavedVariablesPerCharacter: KillTrackerHUD_DB
+
+KillTrackerHUD.lua
